@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<title>Exported from Notepad Next</title>
+<!--StartFragment-->
+<style type="text/css">
+div.main {
+  white-space: pre;
+  line-height: 1;
+}
+.s6 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(128, 128, 192);
+  background: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.s1 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(0, 0, 255);
+  background: rgb(255, 255, 255);
+}
+.s8 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.s3 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(255, 128, 0);
+  background: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.s0 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+}
+.s5 {
+  font-family: 'Courier New';
+  font-size: 11pt;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<div class="main"></span><span class="s1">body </span><span class="s5">{</span><span class="s6">
+    background-color</span><span class="s5">:</span><span class="s8"> white</span><span class="s5">;</span><span class="s6">
+    font-family</span><span class="s5">:</span><span class="s8"> Arial, sans-serif</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">h1 </span><span class="s5">{</span><span class="s6">
+    color</span><span class="s5">:</span><span class="s8"> blue</span><span class="s5">;</span><span class="s6">
+    text-align</span><span class="s5">:</span><span class="s8"> center</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">p </span><span class="s5">{</span><span class="s6">
+    font-size</span><span class="s5">:</span><span class="s8"> 16px</span><span class="s5">;</span><span class="s6">
+    text-align</span><span class="s5">:</span><span class="s8"> center</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">nav </span><span class="s5">{</span><span class="s6">
+    text-align</span><span class="s5">:</span><span class="s8"> center</span><span class="s5">;</span><span class="s6">
+    margin-top</span><span class="s5">:</span><span class="s8"> 20px</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">nav a </span><span class="s5">{</span><span class="s6">
+    margin</span><span class="s5">:</span><span class="s8"> 10px</span><span class="s5">;</span><span class="s6">
+    color</span><span class="s5">:</span><span class="s8"> black</span><span class="s5">;</span><span class="s6">
+    text-decoration</span><span class="s5">:</span><span class="s8"> none</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">nav a</span><span class="s5">:</span><span class="s3">hover</span><span class="s1"> </span><span class="s5">{</span><span class="s6">
+    color</span><span class="s5">:</span><span class="s8"> blue</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</span><span class="s0">
+
+</span><span class="s1">img </span><span class="s5">{</span><span class="s6">
+    display</span><span class="s5">:</span><span class="s8"> block</span><span class="s5">;</span><span class="s6">
+    margin</span><span class="s5">:</span><span class="s8"> 20px auto</span><span class="s5">;</span><span class="s6">
+    width</span><span class="s5">:</span><span class="s8"> 250px</span><span class="s5">;</span><span class="s6">
+</span><span class="s5">}</div>
+</body>
+<!--EndFragment-->
+</html>
